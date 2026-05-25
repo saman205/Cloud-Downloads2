@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4384",
+  "folder": "Other__tele-mirror-win-x64_20260525113615_a5b540",
+  "base_name": "Other__tele-mirror-win-x64_20260525113615_a5b540.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/saman205/Cloud-Downloads2/releases/tag/co-releases-v1-4384",
+  "files": [
+    {
+      "name": "Other__tele-mirror-win-x64_20260525113615_a5b540.zip",
+      "url": "https://github.com/saman205/Cloud-Downloads2/releases/download/co-releases-v1-4384/Other__tele-mirror-win-x64_20260525113615_a5b540.zip",
+      "api_url": "https://api.github.com/repos/saman205/Cloud-Downloads2/releases/assets/429308016",
+      "id": 429308016,
+      "size": 148486185,
+      "download_count": 0
+    }
+  ]
+}
